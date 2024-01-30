@@ -11,6 +11,8 @@ I am currently still in school and I have a part time job.
 
 When i have free time I play games and go out with friends. 
 
+In the future I would like to help people with projects in cybersecurity and a few projects outside of cybersecurity.
+
 
 ## 🔗 Links
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1133023649436270733)
