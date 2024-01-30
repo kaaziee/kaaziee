@@ -5,7 +5,7 @@
 
 Im an pentester and programmer. 
 
-I make bots and tools for hackers/pentesters.
+I make bots and tools for hackers and pentesters.
 
 I am currently still in school and I have a part time job. 
 
