@@ -11,7 +11,7 @@ I am currently still in school and I have a part time job.
 
 When i have free time I play games and go out with friends. 
 
-In the future I would like to help people with projects in cybersecurity and a few projects outside of cybersecurity.
+In the future I would like to help people with projects in cybersecurity but i'm also interested in projects not related to cybersecurity.
 
 
 ## 🔗 Links
