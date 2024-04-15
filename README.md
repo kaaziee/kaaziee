@@ -28,5 +28,5 @@ Bash, Javascript, Typescript, Python and c#.
 
 ParrotSec, Kali Linux, Windows, ArchLinux.
 
-Virtualisation and cybersecurity.
+Virtualisation, cybersecurity and Rubber Ducky.
 
