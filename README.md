@@ -5,10 +5,6 @@
 
 I'm an pentester and programmer. 
 
-I am currently still in school and I have a part time job. 
-
-When I have free time I play games and go out with friends. 
-
 In the future I would like to help people with projects in cybersecurity but i'm also interested in projects not related to cybersecurity.
 
 
