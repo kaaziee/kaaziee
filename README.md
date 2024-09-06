@@ -1,6 +1,3 @@
-![gif](https://github.com/user-attachments/assets/c7566757-4ad6-47d6-9df5-7a40b07ad31d)
-
-
 # Hey, I'm Kaazie! 
 
 I'm an pentester and programmer. 
