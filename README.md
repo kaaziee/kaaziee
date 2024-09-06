@@ -1,4 +1,4 @@
-![hearts-heart-tunnel](https://github.com/kaaziee/kaaziee/assets/153534203/a215e4c3-1367-48f5-8d6c-940ec7dba507)
+![gif](https://github.com/user-attachments/assets/c7566757-4ad6-47d6-9df5-7a40b07ad31d)
 
 
 # Hey, I'm Kaazie! 
