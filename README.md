@@ -6,18 +6,7 @@ In the future I would like to help people with projects in cybersecurity but i'm
 
 
 ## 🔗 Links
-[![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1133023649436270733)
-
-[![instagram](https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaaszie/)
-
 [![tryhackme](https://img.shields.io/badge/tryhackme-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kaazie)
 
 [![hackthebox](https://img.shields.io/badge/hackthebox-008000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1321002)
-
-## 🖥️ Skills
-Bash, Javascript, Typescript, Python and c#.
-
-ParrotSec, Kali Linux, Windows, ArchLinux.
-
-Virtualisation, cybersecurity and Rubber Ducky.
 
