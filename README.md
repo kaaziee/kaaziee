@@ -1,6 +1,6 @@
 # Hey, I'm Kaazie! 
 
-I'm an pentester & ethical hacker. 
+I'm a pentester & ethical hacker. 
 
 In the future I would like to help people with projects in cybersecurity but i'm also interested in projects not related to cybersecurity.
 
